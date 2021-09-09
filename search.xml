@@ -4,13 +4,38 @@
   
     
     <entry>
-      <title></title>
-      <link href="/2021/08/03/first/"/>
-      <url>/2021/08/03/first/</url>
+      <title>hexo常用命令</title>
+      <link href="/2021/09/09/hexo%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/"/>
+      <url>/2021/09/09/hexo%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</url>
+      
+        <content type="html"><![CDATA[<h4 id="常见命令"><a href="#常见命令" class="headerlink" title="常见命令"></a>常见命令</h4><p>hexo new “postName” #新建文章<br>hexo generate #生成静态页面至public目录<br>hexo server #开启预览访问端口（默认端口4000，’ctrl + c’关闭server）<br>hexo deploy #部署到GitHub<br>hexo help  # 查看帮助<br>hexo version  #查看Hexo的版本<br>hexo clean #清理public的内容</p><span id="more"></span><h4 id="缩写"><a href="#缩写" class="headerlink" title="缩写"></a>缩写</h4><p>hexo n == hexo new<br>hexo g == hexo generate<br>hexo s == hexo server<br>hexo d == hexo deploy</p><h4 id="组合命令"><a href="#组合命令" class="headerlink" title="组合命令"></a>组合命令</h4><p>hexo s -g #生成并本地预览<br>hexo d -g #生成并上传</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>first blog</title>
+      <link href="/2021/09/09/first/"/>
+      <url>/2021/09/09/first/</url>
       
         <content type="html"><![CDATA[<h1 id="test"><a href="#test" class="headerlink" title="test"></a>test</h1><p><img src="https://z3.ax1x.com/2021/08/03/fFS8hQ.jpg" alt="demo"></p><blockquote><p>this is a blog test</p></blockquote>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> first </tag>
+            
+        </tags>
       
     </entry>
     

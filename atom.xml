@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-08-04T06:21:51.733Z</updated>
+  <updated>2021-09-09T06:00:13.198Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,30 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="http://example.com/2021/08/03/first/"/>
-    <id>http://example.com/2021/08/03/first/</id>
-    <published>2021-08-03T08:24:53.793Z</published>
-    <updated>2021-08-04T06:21:51.733Z</updated>
+    <title>hexo常用命令</title>
+    <link href="http://example.com/2021/09/09/hexo%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/"/>
+    <id>http://example.com/2021/09/09/hexo%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</id>
+    <published>2021-09-09T05:49:28.000Z</published>
+    <updated>2021-09-09T06:00:13.198Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="常见命令"><a href="#常见命令" class="headerlink" title="常见命令"></a>常见命令</h4><p>hexo new “postName” #新建文章<br>hexo generate #生成静态页面至public目录<br>hexo server #开启预览访问端口（默认端口4000，’ctrl + c’关闭server）<br>hexo deploy #部署到GitHub<br>hexo help  # 查看帮助<br>hexo version  #查看Hexo的版本<br>hexo clean #清理public的内容</p><span id="more"></span><h4 id="缩写"><a href="#缩写" class="headerlink" title="缩写"></a>缩写</h4><p>hexo n == hexo new<br>hexo g == hexo generate<br>hexo s == hexo server<br>hexo d == hexo deploy</p><h4 id="组合命令"><a href="#组合命令" class="headerlink" title="组合命令"></a>组合命令</h4><p>hexo s -g #生成并本地预览<br>hexo d -g #生成并上传</p>]]></content>
+    
+    
+    <summary type="html">&lt;h4 id=&quot;常见命令&quot;&gt;&lt;a href=&quot;#常见命令&quot; class=&quot;headerlink&quot; title=&quot;常见命令&quot;&gt;&lt;/a&gt;常见命令&lt;/h4&gt;&lt;p&gt;hexo new “postName” #新建文章&lt;br&gt;hexo generate #生成静态页面至public目录&lt;br&gt;hexo server #开启预览访问端口（默认端口4000，’ctrl + c’关闭server）&lt;br&gt;hexo deploy #部署到GitHub&lt;br&gt;hexo help  # 查看帮助&lt;br&gt;hexo version  #查看Hexo的版本&lt;br&gt;hexo clean #清理public的内容&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="hexo" scheme="http://example.com/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>first blog</title>
+    <link href="http://example.com/2021/09/09/first/"/>
+    <id>http://example.com/2021/09/09/first/</id>
+    <published>2021-09-09T05:43:12.000Z</published>
+    <updated>2021-09-09T05:46:53.414Z</updated>
     
     <content type="html"><![CDATA[<h1 id="test"><a href="#test" class="headerlink" title="test"></a>test</h1><p><img src="https://z3.ax1x.com/2021/08/03/fFS8hQ.jpg" alt="demo"></p><blockquote><p>this is a blog test</p></blockquote>]]></content>
     
@@ -33,6 +52,8 @@
     
     
     
+    
+    <category term="first" scheme="http://example.com/tags/first/"/>
     
   </entry>
   
