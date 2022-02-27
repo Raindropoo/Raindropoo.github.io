@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2022/02/27/jQuery/</loc>
+    
+    <lastmod>2022-02-27</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://example.com/2021/09/09/hexo%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</loc>
     
     <lastmod>2022-02-22</lastmod>
@@ -39,7 +46,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2022-02-22</lastmod>
+    <lastmod>2022-02-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -47,35 +54,42 @@
   
   <url>
     <loc>http://example.com/tags/first/</loc>
-    <lastmod>2022-02-22</lastmod>
+    <lastmod>2022-02-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/hexo/</loc>
-    <lastmod>2022-02-22</lastmod>
+    <lastmod>2022-02-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/%E8%AF%97/</loc>
-    <lastmod>2022-02-22</lastmod>
+    <lastmod>2022-02-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/flex/</loc>
-    <lastmod>2022-02-22</lastmod>
+    <lastmod>2022-02-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/css/</loc>
-    <lastmod>2022-02-22</lastmod>
+    <lastmod>2022-02-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/jQuery/</loc>
+    <lastmod>2022-02-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
