@@ -53,7 +53,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2022-03-05</lastmod>
+    <lastmod>2022-03-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -61,49 +61,49 @@
   
   <url>
     <loc>http://example.com/tags/first/</loc>
-    <lastmod>2022-03-05</lastmod>
+    <lastmod>2022-03-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/hexo/</loc>
-    <lastmod>2022-03-05</lastmod>
+    <lastmod>2022-03-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/%E8%AF%97/</loc>
-    <lastmod>2022-03-05</lastmod>
+    <lastmod>2022-03-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/flex/</loc>
-    <lastmod>2022-03-05</lastmod>
+    <lastmod>2022-03-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/css/</loc>
-    <lastmod>2022-03-05</lastmod>
+    <lastmod>2022-03-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/jQuery/</loc>
-    <lastmod>2022-03-05</lastmod>
+    <lastmod>2022-03-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/AJAX/</loc>
-    <lastmod>2022-03-05</lastmod>
+    <lastmod>2022-03-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
